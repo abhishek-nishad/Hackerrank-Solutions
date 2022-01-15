@@ -1,3 +1,4 @@
+package Java.jan14;
 class Solution
 {   // Using inorder traversal
     public static void inorder(Node root, LinkedList<Integer> list)

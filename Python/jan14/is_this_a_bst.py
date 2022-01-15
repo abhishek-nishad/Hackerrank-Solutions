@@ -1,5 +1,5 @@
 # Solution using inorder traversal
-''' This solution does nto submit on hackerrank '''
+''' This solution does not submit on hackerrank '''
 
 
 class Solution:

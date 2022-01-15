@@ -21,7 +21,7 @@ class Solution:
    
 
 # Solution using property of BST
-''' This solution submits of hackerrank '''
+''' This solution submits on hackerrank '''
 
 def isBST(root, min_v, max_v):
     if(root == None):

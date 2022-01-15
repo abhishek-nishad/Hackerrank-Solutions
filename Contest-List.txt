@@ -1,0 +1,11 @@
+1. hackerrank.com/infytq-jan13
+    a. Common Child
+    b. BST - Least Common Ancestor
+
+2. hackerrank.com/infytq-jan14
+    a. Is this a BST?
+    b. Fradulent Activity Notification
+
+3. hackerrank.com/infytq-jan15
+    a. Tree : Top View 
+    b. Consecutive Subsequences 

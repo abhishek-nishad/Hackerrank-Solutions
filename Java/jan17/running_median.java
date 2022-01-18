@@ -21,8 +21,8 @@ class Result {
 
     public static List<Double> runningMedian(List<Integer> a) {
     // Write your code here
-        PriorityQueue<Integer> maxHeap = new PriorityQueue(Collections.reverseOrder());
-        PriorityQueue<Integer> minHeap = new PriorityQueue();
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((x,y) -> y-x);
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>((x,y) -> x-y);
         List<Double> result = new LinkedList<>();
         
         double median = a.get(0);

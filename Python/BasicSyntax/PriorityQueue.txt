@@ -7,10 +7,10 @@ from heapq import *
     every entry by -1 on every push and pop operation.
 
             ADD ELEMENTS : heappush(maxHeap, -(input-value))
-                        : heappush(minHeap, input-value)
+                         : heappush(minHeap, input-value)
 
             REMOVE ELEMENT : -heappop(maxHeap)
-                        : heappop(minHeap)
+                           : heappop(minHeap)
 
             TOP ELEMENT : -maxHeap[0] or minHeap[0]
 

@@ -12,3 +12,8 @@
 
         We can either use library class to create maxHeap or use comparator.
         DEFAULT : MIN HEAP
+
+
+        ADD ELEMENTS : maxHeap.offer(input-data) OR maxHeap.add(input-data)
+        REMOVE ELEMENTS : maxHeap.poll() or maxHeap.remove()
+        TOP ELEMENT : maxHeap.peek()

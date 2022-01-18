@@ -1,0 +1,14 @@
+        
+        
+        PriorityQueue<Integer> maxHeap = new PriorityQueue(Collections.reverseOrder());
+        PriorityQueue<Integer> minHeap = new PriorityQueue();
+
+                            OR 
+
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((x,y) -> y-x);
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>((x,y) -> x-y);
+
+
+
+        We can either use library class to create maxHeap or use comparator.
+        DEFAULT : MIN HEAP

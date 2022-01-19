@@ -13,3 +13,12 @@
 4. hackerrank.com/infytq-jan17
     a. Sherlock and Anagrams 
     b. Find the Running Median 
+
+5. hackerrank.com/h-coe3a-18jan
+    a. Roads and libraries
+    b. New Year Chaos
+
+6. hackerrank.com/h-coe3a-19jan
+    a. 
+    b. 
+    

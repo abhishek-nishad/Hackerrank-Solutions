@@ -6,7 +6,7 @@
         1. Create a HashMap <Integer, ArrayList<>>
         2. Input values of 'a' and 'b' where (a,b) represents an undirected edge in the graph.
         3. Get the list for 'a' from the Map, if list absent, create a new list for it 
-        4. Add 'b' to the list and put the list in map. map[a] = list
+        4. Add 'b' to the list and put the list in map. (map[a] = list)
         5. Repeat step 3 and 4 for 'b' too, as it is an undirected graph.
         6. Do this for all edges.
 

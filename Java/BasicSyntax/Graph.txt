@@ -1,0 +1,77 @@
+
+1.    Methods to construct a graph in java using Adjacency list or Hashmap    
+
+                    Method 1:
+
+        1. Create a HashMap <Integer, ArrayList<>>
+        2. Input values of 'a' and 'b' where (a,b) represents an undirected edge in the graph.
+        3. Get the list for 'a' from the Map, if list absent, create a new list for it 
+        4. Add 'b' to the list and put the list in map. map[a] = list
+        5. Repeat step 3 and 4 for 'b' too, as it is an undirected graph.
+        6. Do this for all edges.
+
+
+        HashMap<Integer, ArrayList<Integer>> graph = new HashMap<>();
+
+        for(int i=0; i < cities.size(); i++) 
+        {
+            int a = cities.get(i).get(0);
+            int b = cities.get(i).get(1);
+
+            ArrayList<Integer> nodes = graph.getOrDefault(a, new ArrayList<Integer>());
+            nodes.add(b);
+            graph.put(a, nodes);
+            
+            nodes = graph.getOrDefault(b, new ArrayList<Integer>());
+            nodes.add(a);
+            graph.put(b, nodes);         
+        }    
+
+------------------------------------------------------------------------------------------------------
+
+                    Method 2:
+
+        1. Create a HashMap <Integer, ArrayList<>>
+        2. Create a list for each node of the graph (|graph| = n)
+        3. Input values of 'a' and 'b' where (a,b) represents an undirected edge in the graph.
+        4. Add value of 'b' to the list present for 'a' in the map.
+        5. Add value of 'a' to the list present for 'b' in the map.  [Undirected graph]
+
+
+
+        HashMap<Integer, ArrayList<Integer>> graph = new HashMap<>();
+
+        for(int i=1; i<=n; i++)
+            graph.put(i, new ArrayList<Integer>());
+            
+        for(int i=0; i < cities.size(); i++) 
+        {
+            int a = cities.get(i).get(0);
+            int b = cities.get(i).get(1);
+
+            graph.get(a).add(b);
+            graph.get(b).add(a);
+        }    
+
+
+------------------------------------------------------------------------------------------------------
+
+
+2. DFS Traversal of a graph. 
+
+
+    public static void dfs(int node, HashMap<Integer, ArrayList<Integer>> graph,
+                           int V[], ArrayList<Integer> count)
+    {
+        V[node] = 1;
+        count.add(node);
+        List<Integer> nodes = graph.get(node);
+        if(nodes!=null)
+        {
+            for(Integer t : nodes)
+            {
+                if(V[t]==0)
+                    dfs(t, graph, V, count);
+            }
+        }
+    }

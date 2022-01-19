@@ -1,0 +1,11 @@
+            
+            
+    HashMap<Character, <Integer> hashmap = new HashMap<>();
+
+
+    Input Value : hashmap.put(key, value)
+    Get Value : hashmap.get(key)
+    Get Value or default : hashmap.getOrDefault(key, DefaultValue)
+
+    Check presence of a key in hashmap : hashmap.containsKey(key)
+    

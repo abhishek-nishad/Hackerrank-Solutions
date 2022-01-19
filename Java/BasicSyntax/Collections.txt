@@ -1,0 +1,4 @@
+SWAP : 
+
+    Collections.swap(list-name, index1, index2);
+    

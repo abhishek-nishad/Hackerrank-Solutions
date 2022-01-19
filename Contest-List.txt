@@ -19,8 +19,8 @@
     b. New Year Chaos
 
 6. hackerrank.com/h-coe3a-19jan
-    a. 
-    b. 
+    a. Non-Divisible Subset
+    b. Jim and the Jokes
 
 
 

@@ -38,8 +38,6 @@ class Result {
             
             graph.get(a).add(b);
             graph.get(b).add(a);
-            
-           
         }    
         
         int V[] = new int[n+1];
@@ -56,7 +54,6 @@ class Result {
                     ans += c_lib + c_road * (count.size()-1);
             }
         }
-        
         return ans;
     }
     public static void dfs(int node, HashMap<Integer, ArrayList<Integer>> graph, int V[], ArrayList<Integer> count)

@@ -23,8 +23,8 @@
     b. Jim and the Jokes : Base conversion
 
 7. hackerrank.com/h-coe3a-20jan
-    a.
-    b.
+    a. Game of Two Stacks
+    b. Sam and Substrings
 
 
 

@@ -20,7 +20,7 @@
 
 6. hackerrank.com/h-coe3a-19jan
     a. Non-Divisible Subset
-    b. Jim and the Jokes : Octal to decimal and counting pairs.
+    b. Jim and the Jokes : Base conversion
 
 7. hackerrank.com/h-coe3a-20jan
     a.

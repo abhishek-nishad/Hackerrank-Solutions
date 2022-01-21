@@ -4,14 +4,14 @@
 
 2. hackerrank.com/infytq-jan14
     a. Is this a BST?  : Inorder Traversal | Property of BST
-    b. Fradulent Activity Notification :  Running Median using counting sort method
+  * b. Fradulent Activity Notification :  Running Median using counting sort method 
 
 3. hackerrank.com/infytq-jan15
-    a. Tree : Top View : 
-    b. Consecutive Subsequences : 
+  * a. Tree : Top View : 
+  * b. Consecutive Subsequences : 
 
 4. hackerrank.com/infytq-jan17
-    a. Sherlock and Anagrams 
+  * a. Sherlock and Anagrams 
     b. Find the Running Median : MinHeap and MaxHeap
  
 5. hackerrank.com/h-coe3a-18jan 
@@ -19,12 +19,12 @@
     b. New Year Chaos : Simple algorithm based 
 
 6. hackerrank.com/h-coe3a-19jan
-    a. Non-Divisible Subset
+    a. Non-Divisible Subset : Divisibility property and remainders.
     b. Jim and the Jokes : Base conversion
 
 7. hackerrank.com/h-coe3a-20jan
-    a. Game of Two Stacks
-    b. Sam and Substrings
+  * a. Game of Two Stacks : 
+  * b. Sam and Substrings : Dynamic Programming (Similar to sum of subsets)
 
 
 

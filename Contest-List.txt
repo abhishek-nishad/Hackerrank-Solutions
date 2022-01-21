@@ -1,32 +1,34 @@
-1. hackerrank.com/infytq-jan13
+1. https://www.www.hackerrank.com/infytq-jan13
     a. Common Child   : Longest Common Subsequence
     b. BST - Least Common Ancestor : Simple property of BST
 
-2. hackerrank.com/infytq-jan14
+2. https://www.hackerrank.com/infytq-jan14
     a. Is this a BST?  : Inorder Traversal | Property of BST
   * b. Fradulent Activity Notification :  Running Median using counting sort method 
 
-3. hackerrank.com/infytq-jan15
+3. https://www.hackerrank.com/infytq-jan15
   * a. Tree : Top View : 
   * b. Consecutive Subsequences : 
 
-4. hackerrank.com/infytq-jan17
+4. https://www.hackerrank.com/infytq-jan17
   * a. Sherlock and Anagrams 
     b. Find the Running Median : MinHeap and MaxHeap
  
-5. hackerrank.com/h-coe3a-18jan 
+5. https://www.hackerrank.com/h-coe3a-18jan 
     a. Roads and libraries : DFS Traversal of graph
     b. New Year Chaos : Simple algorithm based 
 
-6. hackerrank.com/h-coe3a-19jan
+6. https://www.hackerrank.com/h-coe3a-19jan
     a. Non-Divisible Subset : Divisibility property and remainders.
     b. Jim and the Jokes : Base conversion
 
-7. hackerrank.com/h-coe3a-20jan
+7. https://www.hackerrank.com/h-coe3a-20jan
   * a. Game of Two Stacks : 
   * b. Sam and Substrings : Dynamic Programming (Similar to sum of subsets)
 
-
+8. https://www.hackerrank.com/h-coe3a-21jan
+  * a. Bigger is Greater
+  * b. Highest Value Palindrome
 
 
 

@@ -80,7 +80,7 @@ class Result {
         int m = a.length();
         int n = b.length();
         
-        int qb[][] = new int[m][n];
+        // int qb[][] = new int[m][n];
         return ob.tabular(a, b, m, n);
         // return ob.memoization(a, b, m, n, qb);
         // return ob.recursive(a, b, m, n);

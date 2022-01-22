@@ -24,12 +24,15 @@
 
 7. https://www.hackerrank.com/h-coe3a-20jan
   * a. Game of Two Stacks : 
-  * b. Sam and Substrings : Dynamic Programming (Similar to sum of subsets)
+    b. Sam and Substrings : Dynamic Programming (Similar to sum of subsets)
 
 8. https://www.hackerrank.com/h-coe3a-21jan
   * a. Bigger is Greater
-  * b. Highest Value Palindrome
+    b. Highest Value Palindrome
 
+9.  https://www.hackerrank.com/h-coe3a-22jan
+  * a. Largest permutation 
+  * b. Largest Rectangle
 
 
 

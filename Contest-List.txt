@@ -28,7 +28,7 @@
 
 8. https://www.hackerrank.com/h-coe3a-21jan
   * a. Bigger is Greater
-    b. Highest Value Palindrome
+    b. Highest Value Palindrome : Create Palindrome and then maximize according to conditions.
 
 9.  https://www.hackerrank.com/h-coe3a-22jan
   * a. Largest permutation 

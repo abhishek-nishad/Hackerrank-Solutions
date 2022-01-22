@@ -13,7 +13,9 @@ import static java.util.stream.Collectors.toList;
 
 class Result {
 
-    /*
+    /* 
+     * LONGEST COMMON SUBSEQUENCE
+     *
      * Complete the 'commonChild' function below.
      *
      * The function is expected to return an INTEGER.

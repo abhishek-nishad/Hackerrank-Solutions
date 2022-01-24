@@ -34,7 +34,11 @@
   * a. Largest permutation 
   * b. Largest Rectangle
 
+10. https://www.hackerrank.com/h-coe3a-24jan
+  * a. Ants 
+    b. Greedy Florist : The highest valued flower is bought least number of times. 
 
-
-
+                               
+                               
+                               
                                     * Not yet uploaded

@@ -32,7 +32,7 @@
 
 9.  https://www.hackerrank.com/h-coe3a-22jan
   * a. Largest permutation 
-  * b. Largest Rectangle
+    b. Largest Rectangle : Stack (Next Smallest Right and left)
 
 10. https://www.hackerrank.com/h-coe3a-24jan
   * a. Ants 

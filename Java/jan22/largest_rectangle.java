@@ -82,7 +82,6 @@ class Result {
             tempList[1] = i;
             stack.push(tempList);
         }
-        // Collections.reverse(result);
         return result;
     }
 }

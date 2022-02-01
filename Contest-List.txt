@@ -38,20 +38,17 @@
   * a. Ants 
     b. Greedy Florist : The highest valued flower is bought least number of times. 
 
-
-------------------------- Not yet uploaded ------------------------- 
-
 11. https://www.hackerrank.com/h-coe3a-25jan
     a. The Minion Game
-    b. Insertion Sort : Advanced Analysis
+  * b. Insertion Sort : Advanced Analysis
 
 12. https://www.hackerrank.com/h-coe3a-26jan
     a. Counter Game 
     b. Lily's Homework 
 
 13. https://www.hackerrank.com/h-coe3a-27jan
-    a. Winning Lottery Ticket
-    b. Sum v/s XOR
+  * a. Winning Lottery Ticket
+  * b. Sum v/s XOR
 
 14. https://www.hackerrank.com/h-coe3a-28jan
     a. Candies
@@ -62,11 +59,11 @@
     b. Breadth First Search : Shortest Reach 
 
 16. https://www.hackerrank.com/h-coe3a-31jan
-    a. Queen Attack II 
-    b. Priyanka and Toys  
+  * a. Queen Attack II 
+  * b. Priyanka and Toys  
 
 
 
 
 
-                                    * Not yet uploaded
+------------------------------------- * Not yet uploaded ------------------------------------- 

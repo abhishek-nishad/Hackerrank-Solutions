@@ -13,6 +13,7 @@ import sys
 # The function accepts INTEGER_ARRAY arr as parameter.
 #
 
+
 def chiefHopper(arr):
 
     energy = 0

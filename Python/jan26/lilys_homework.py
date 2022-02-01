@@ -12,6 +12,7 @@ import sys
 # The function is expected to return an INTEGER.
 # The function accepts INTEGER_ARRAY arr as parameter.
 #
+
 def get_swaps(map_arr, sort_arr, arr):
     
     swaps = 0

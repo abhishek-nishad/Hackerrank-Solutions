@@ -13,6 +13,7 @@ import sys
 # The function accepts LONG_INTEGER n as parameter.
 #
 
+
 def counterGame(n):
     count=0
     while n>1:

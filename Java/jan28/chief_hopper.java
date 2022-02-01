@@ -18,6 +18,7 @@ class Result {
      * The function is expected to return an INTEGER.
      * The function accepts INTEGER_ARRAY arr as parameter.
      */
+    
 
     public static int chiefHopper(List<Integer> heights) {
     // Write your code here

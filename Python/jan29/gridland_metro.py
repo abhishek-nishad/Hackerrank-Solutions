@@ -16,6 +16,7 @@ import sys
 #  3. INTEGER k
 #  4. 2D_INTEGER_ARRAY track
 #
+
 def gridlandMetro(n, m, k, track):
     
     d = {}             

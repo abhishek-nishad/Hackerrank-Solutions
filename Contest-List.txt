@@ -59,8 +59,12 @@
     b. Breadth First Search : Shortest Reach 
 
 16. https://www.hackerrank.com/h-coe3a-31jan
-  * a. Queen Attack II 
-  * b. Priyanka and Toys  
+    a. Queen Attack II 
+    b. Priyanka and Toys  
+
+17. https://www.hackerrank.com/h-coe3a-01feb
+    a. Waiter
+    b. Append and delete
 
 
 

@@ -66,9 +66,35 @@
     a. Waiter
     b. Append and delete
 
+-------------------------------------Offline sessions-------------------------------------
+
+18. https://www.hackerrank.com/h-coe3a-08feb
+    a. Absolute Permutation
+    b. Encryption
+    c. Simple Text Editor
+
+19. https://www.hackerrank.com/h-coe3a-11feb
+    a. Abbreviations 
+    b. Equal Stacks
+    c. ACM ICPC Team
+
+20. https://www.hackerrank.com/h-coe3a-14feb
+    a. Missing Number
+    b. Gaming Array
+    c. Snakes and ladders
+
+21. https://www.hackerrank.com/h-coe3a-15feb
+    a. Reverse Shuffle Merge
+    b. Game of Throne - I
+    c. Balanced Brackets
+
+22. https://www.hackerrank.com/h-coe3a-16feb
+    a. Highest Value Palindrome : Repeated jan21
+    b. Pairs
+    c. Larry's Array
 
 
 
 
 
-------------------------------------- * Not yet uploaded ------------------------------------- 
+                              * Not yet uploaded 

@@ -93,6 +93,19 @@
     b. Pairs
     c. Larry's Array
 
+22. https://www.hackerrank.com/h-coecse3a-17feb
+    a. The Coin Change Problem
+    b. Hackerland Radio Transmitters
+    c. Jesse and Cookies
+
+22. https://www.hackerrank.com/h-coecse3a-18feb
+    a. Largest Rectangle
+    b. Strange Counter
+    c. Beautiful Pairs
+
+    
+
+
 
 
 

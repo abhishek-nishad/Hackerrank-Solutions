@@ -17,3 +17,5 @@ import java.util.Collections;
         ADD ELEMENTS : maxHeap.offer(input-data) OR maxHeap.add(input-data)
         REMOVE ELEMENTS : maxHeap.poll() or maxHeap.remove()
         TOP ELEMENT : maxHeap.peek()
+        CHECK EMPTY : maxHeap.isEmpty()
+        
